@@ -8,7 +8,7 @@ image:
   repository: kspushparajshetty20/devops
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10854165755"
+  tag: "10854196390"
 
 ingress:
   enabled: false
